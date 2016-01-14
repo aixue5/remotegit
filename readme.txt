@@ -2,3 +2,5 @@
 
 
 zheshi dierci  ceshi 
+
+测试两个git项目提交是否有冲突
